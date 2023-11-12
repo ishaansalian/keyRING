@@ -1,4 +1,4 @@
-# KeyRING - Your Smart Key Holder
+# keyRING - Your Smart Key Holder
 
 ## Overview
 
