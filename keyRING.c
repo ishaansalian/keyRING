@@ -19,7 +19,7 @@ int main(void) {
 
     // Configure Timer 1 for volume control
     TCCR1A = 0;
-    TCCR1B = 10; // Increase volume?
+    TCCR1B = 10;
 
     // Initialize Timer 0
     timer0_init();
