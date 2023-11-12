@@ -1,4 +1,4 @@
-# makefile for AVR ATmega328P projects using Arduino Uno
+# makefile for AVR ATmega328P projects using the Arduino Uno
 # Original Author: Professor D. McLaughlin
 # Contributors: Aryaman Ghura, Ishaan Salian
 
